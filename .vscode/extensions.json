@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csdevkit",
+        "usernamehw.errorlens",
+        "dracula-theme.theme-dracula",
+        "oderwat.indent-rainbow",
+        "idleberg.nsis",
+        "vscode-icons-team.vscode-icons",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.csharp"
+    ]
+}
